@@ -1,0 +1,276 @@
+{
+  "drives": [
+    {
+      "name": "C:",
+      "path": "C:",
+      "type": "drive"
+    },
+    {
+      "name": "D:",
+      "path": "D:",
+      "type": "drive"
+    }
+  ],
+  "filesystem": {
+    "C:": {
+      "name": "C:",
+      "path": "C:",
+      "type": "directory",
+      "children": {
+        "Users": {
+          "name": "Users",
+          "path": "C:\\Users",
+          "type": "directory",
+          "children": {
+            "John": {
+              "name": "John",
+              "path": "C:\\Users\\John",
+              "type": "directory",
+              "children": {
+                "Desktop": {
+                  "name": "Desktop",
+                  "path": "C:\\Users\\John\\Desktop",
+                  "type": "directory",
+                  "children": {
+                    "Project Report.docx": {
+                      "name": "Project Report.docx",
+                      "path": "C:\\Users\\John\\Desktop\\Project Report.docx",
+                      "type": "file",
+                      "size": 245760,
+                      "extension": ".docx",
+                      "modified": "2024-10-20T14:30:00Z"
+                    },
+                    "Screenshot.png": {
+                      "name": "Screenshot.png",
+                      "path": "C:\\Users\\John\\Desktop\\Screenshot.png",
+                      "type": "file",
+                      "size": 1024000,
+                      "extension": ".png",
+                      "modified": "2024-10-22T09:15:00Z"
+                    }
+                  }
+                },
+                "Documents": {
+                  "name": "Documents",
+                  "path": "C:\\Users\\John\\Documents",
+                  "type": "directory",
+                  "children": {
+                    "My Music": {
+                      "name": "My Music",
+                      "path": "C:\\Users\\John\\Documents\\My Music",
+                      "type": "directory",
+                      "children": {
+                        "Song1.mp3": {
+                          "name": "Song1.mp3",
+                          "path": "C:\\Users\\John\\Documents\\My Music\\Song1.mp3",
+                          "type": "file",
+                          "size": 5242880,
+                          "extension": ".mp3",
+                          "modified": "2024-10-15T16:20:00Z"
+                        },
+                        "Song2.mp3": {
+                          "name": "Song2.mp3",
+                          "path": "C:\\Users\\John\\Documents\\My Music\\Song2.mp3",
+                          "type": "file",
+                          "size": 4194304,
+                          "extension": ".mp3",
+                          "modified": "2024-10-16T11:45:00Z"
+                        }
+                      }
+                    },
+                    "Projects": {
+                      "name": "Projects",
+                      "path": "C:\\Users\\John\\Documents\\Projects",
+                      "type": "directory",
+                      "children": {
+                        "WebApp": {
+                          "name": "WebApp",
+                          "path": "C:\\Users\\John\\Documents\\Projects\\WebApp",
+                          "type": "directory",
+                          "children": {
+                            "index.html": {
+                              "name": "index.html",
+                              "path": "C:\\Users\\John\\Documents\\Projects\\WebApp\\index.html",
+                              "type": "file",
+                              "size": 2048,
+                              "extension": ".html",
+                              "modified": "2024-10-23T13:00:00Z"
+                            },
+                            "style.css": {
+                              "name": "style.css",
+                              "path": "C:\\Users\\John\\Documents\\Projects\\WebApp\\style.css",
+                              "type": "file",
+                              "size": 1536,
+                              "extension": ".css",
+                              "modified": "2024-10-23T13:05:00Z"
+                            },
+                            "script.js": {
+                              "name": "script.js",
+                              "path": "C:\\Users\\John\\Documents\\Projects\\WebApp\\script.js",
+                              "type": "file",
+                              "size": 3072,
+                              "extension": ".js",
+                              "modified": "2024-10-23T13:10:00Z"
+                            }
+                          }
+                        },
+                        "README.md": {
+                          "name": "README.md",
+                          "path": "C:\\Users\\John\\Documents\\Projects\\README.md",
+                          "type": "file",
+                          "size": 1024,
+                          "extension": ".md",
+                          "modified": "2024-10-20T10:00:00Z"
+                        }
+                      }
+                    }
+                  }
+                },
+                "Downloads": {
+                  "name": "Downloads",
+                  "path": "C:\\Users\\John\\Downloads",
+                  "type": "directory",
+                  "children": {
+                    "installer.exe": {
+                      "name": "installer.exe",
+                      "path": "C:\\Users\\John\\Downloads\\installer.exe",
+                      "type": "file",
+                      "size": 10485760,
+                      "extension": ".exe",
+                      "modified": "2024-10-19T08:30:00Z"
+                    },
+                    "video.mp4": {
+                      "name": "video.mp4",
+                      "path": "C:\\Users\\John\\Downloads\\video.mp4",
+                      "type": "file",
+                      "size": 52428800,
+                      "extension": ".mp4",
+                      "modified": "2024-10-21T15:45:00Z"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Program Files": {
+          "name": "Program Files",
+          "path": "C:\\Program Files",
+          "type": "directory",
+          "children": {
+            "Common Files": {
+              "name": "Common Files",
+              "path": "C:\\Program Files\\Common Files",
+              "type": "directory",
+              "children": {}
+            },
+            "Windows NT": {
+              "name": "Windows NT",
+              "path": "C:\\Program Files\\Windows NT",
+              "type": "directory",
+              "children": {}
+            }
+          }
+        },
+        "Windows": {
+          "name": "Windows",
+          "path": "C:\\Windows",
+          "type": "directory",
+          "children": {
+            "System32": {
+              "name": "System32",
+              "path": "C:\\Windows\\System32",
+              "type": "directory",
+              "children": {}
+            },
+            "Temp": {
+              "name": "Temp",
+              "path": "C:\\Windows\\Temp",
+              "type": "directory",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "D:": {
+      "name": "D:",
+      "path": "D:",
+      "type": "directory",
+      "children": {
+        "Games": {
+          "name": "Games",
+          "path": "D:\\Games",
+          "type": "directory",
+          "children": {
+            "Steam": {
+              "name": "Steam",
+              "path": "D:\\Games\\Steam",
+              "type": "directory",
+              "children": {
+                "steamapps": {
+                  "name": "steamapps",
+                  "path": "D:\\Games\\Steam\\steamapps",
+                  "type": "directory",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "Media": {
+          "name": "Media",
+          "path": "D:\\Media",
+          "type": "directory",
+          "children": {
+            "Movies": {
+              "name": "Movies",
+              "path": "D:\\Media\\Movies",
+              "type": "directory",
+              "children": {
+                "Action Movie.mkv": {
+                  "name": "Action Movie.mkv",
+                  "path": "D:\\Media\\Movies\\Action Movie.mkv",
+                  "type": "file",
+                  "size": 2147483648,
+                  "extension": ".mkv",
+                  "modified": "2024-10-18T20:00:00Z"
+                }
+              }
+            },
+            "Photos": {
+              "name": "Photos",
+              "path": "D:\\Media\\Photos",
+              "type": "directory",
+              "children": {
+                "2024": {
+                  "name": "2024",
+                  "path": "D:\\Media\\Photos\\2024",
+                  "type": "directory",
+                  "children": {
+                    "vacation1.jpg": {
+                      "name": "vacation1.jpg",
+                      "path": "D:\\Media\\Photos\\2024\\vacation1.jpg",
+                      "type": "file",
+                      "size": 2097152,
+                      "extension": ".jpg",
+                      "modified": "2024-07-15T12:30:00Z"
+                    },
+                    "vacation2.jpg": {
+                      "name": "vacation2.jpg",
+                      "path": "D:\\Media\\Photos\\2024\\vacation2.jpg",
+                      "type": "file",
+                      "size": 1835008,
+                      "extension": ".jpg",
+                      "modified": "2024-07-15T12:35:00Z"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
