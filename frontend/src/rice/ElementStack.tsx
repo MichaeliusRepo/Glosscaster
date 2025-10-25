@@ -2,7 +2,7 @@ import { SideParticle, GlowUpParticles } from "./effects/Particles";
 import { Aurora } from "./elements/Aurora";
 import { BoxClock } from "./elements/BoxClock";
 import { GradientBackground } from "./elements/GradientBackground";
-import { Torus } from "./elements/Torus";
+// import { Torus } from "./elements/Torus";
 import { hsl } from "./HSL";
 
 export default function ElementStack({ hue }: { hue: number }) {

@@ -1,4 +1,4 @@
-import mockData from './mockFileSystem.json' with { type: 'json' };
+import mockData from './mockFileSystem.json';
 
 interface MockFileItem {
     name: string;
