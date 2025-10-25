@@ -8,7 +8,7 @@ Written in TypeScript, the demo uses Vite and React Three Fiber to render 3D gra
 
 ## Demo
 
-A demo is upcoming soon - until then, please set it up locally. WebGL must be enabled in your browser for React Three Fiber to properly render. Navigate the menus using the arrow keys on your keyboard.
+You may find a [demo available here](http://glosscaster-ui.s3-website.eu-north-1.amazonaws.com/), hosted on AWS S3 (front-end) and Lambda (back-end). WebGL must be enabled in your browser for React Three Fiber to properly render. Navigate the menus using the arrow keys on your keyboard.
 
 Beware that only the file explorer is implemented - other menus (Settings, Music, Videos, Pictures) are not implemented. Mouse navigation is also not implemented.
 
